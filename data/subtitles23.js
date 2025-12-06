@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.960 --> 00:03.440\nHere\'s the plan for your in lab project.\n\n00:04.160 --> 00:08.160\nFirst, the prep. This will take about 10 to 15 minutes.\n\n00:08.800 --> 00:12.560\nCut your pieces and mark the seam line. Thread the machine\n\n00:12.880 --> 00:16.880\nand make sure the spring loaded table is locked with cords routed\n\n00:17.380 --> 00:21.600\nsafely. Next, SEW Plan on 25 to\n\n00:22.100 --> 00:25.800\n35 minutes. Sew your seams with a quick backstitch at\n\n00:26.300 --> 00:29.850\nthe end. Start and end. Guide the fabric gently with your hands.\n\n00:30.330 --> 00:33.930\nStop with the needle down when you pivot and trim your threads.\n\n00:34.650 --> 00:38.570\nFinally, the heat press. This will take another 10 to 15\n\n00:38.650 --> 00:42.730\nminutes. Confirm the target temperature, then align,\n\n00:43.050 --> 00:46.370\npress, wait and peel the design as\n\n00:46.870 --> 00:50.930\ndirected. That\'s the whole flow. Prep, sew, press let\'s\n\n00:51.430 --> 00:54.890\nwalk through the steps in this module before doing the real thing in the lab.\n\n"
+		};
+	window["st_{87144F3F-F347-4D50-BA15-872312E1CE06}"]?.("sndAsset24", subtitles);
+})();
