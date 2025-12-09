@@ -1,6 +1,0 @@
-(function () {
-	const subtitles = {
-			data: "WEBVTT\n\n00:01.520 --> 00:05.240\nTime to press your design onto the pouch. Make sure the heat press is on\n\n00:05.740 --> 00:09.280\nand warmed. Use the handle only and keep hands clear of the hot top platen.\n\n00:09.600 --> 00:13.600\nPlace the pouch flat on the lower plate and close the press for a short\n\n00:13.760 --> 00:17.280\npre press to warm and smooth the fabric. Lift the\n\n00:17.780 --> 00:20.920\nhandle, smooth any wrinkles, and position your design exactly where you\n\n00:21.420 --> 00:25.400\nwant it. Cover the area with the protective sheet, lower the\n\n00:25.900 --> 00:28.210\nhandle until it latches, and let the press do the work.\n\n00:30.850 --> 00:34.690\nWhen the timer finishes, lift the handle and check an edge\n\n00:35.190 --> 00:35.330\nof the design.\n\n00:39.490 --> 00:42.850\nIf anything lifts, you want to lay the carrier and\n\n00:43.350 --> 00:45.890\nsheet back down and press for another round.\n\n01:00.380 --> 01:04.380\nIf it\'s bonded, cleanly remove the sheet and peel the carrier slowly\n\n01:04.880 --> 01:08.740\nat a shallow angle. Give the edges a quick look, and that\'s\n\n01:09.240 --> 01:10.140\nyour finished pouch.\n\n"
-		};
-	window["st_{87144F3F-F347-4D50-BA15-872312E1CE06}"]?.("sndAsset28", subtitles);
-})();
