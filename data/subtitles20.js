@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.960 --> 00:04.160\nHere\'s how to use the heat press. First things\n\n00:04.660 --> 00:07.920\nfirst Only use the handle to raise\n\n00:08.420 --> 00:11.200\nand lower it. Never touch the platen itself.\n\n00:12.160 --> 00:15.959\nLay your material flat on the lower plate and align\n\n00:16.459 --> 00:19.840\nyour design exactly where you want it. Take a moment\n\n00:20.340 --> 00:24.200\nto smooth out wrinkles and double check placement. A careful setup makes\n\n00:24.700 --> 00:28.690\nthe press look clean. Place the protective sheet over the design so\n\n00:29.190 --> 00:32.890\nthe heat and pressure are evenly distributed. When everything looks right,\n\n00:33.050 --> 00:37.090\nlower the handle until it latches. You\'ll feel it click and\n\n00:37.590 --> 00:41.370\nthe timer starts automatically, no extra force needed.\n\n00:41.690 --> 00:45.250\nWhile it runs, keep hands clear and just let the press do the\n\n00:45.750 --> 00:49.250\nwork. When the timer finishes, lift the platen with the handle smooth\n\n00:49.750 --> 00:49.930\nand steady.\n\n"
+		};
+	window["st_{EEF30651-E625-4041-8B20-FBF0BAE4113A}"]?.("sndAsset21", subtitles);
+})();
